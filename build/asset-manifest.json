@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4c08790.css",
+    "main.js": "/static/js/main.494e34f0.js",
+    "static/media/unmuteaudio.svg": "/static/media/unmuteaudio.b918e2887fddb110bb1909d304844aa6.svg",
+    "static/media/tmessage.svg": "/static/media/tmessage.2b93a89ea3b925a7bb18657ccc4dc448.svg",
+    "static/media/taudioicon.svg": "/static/media/taudioicon.0ecb2a9024be5c3e9358bbd13f7367d5.svg",
+    "index.html": "/index.html",
+    "static/media/tendcall.svg": "/static/media/tendcall.ce40fe2c1cf22860c7b60722d37e67d2.svg",
+    "static/media/unmutevedio.svg": "/static/media/unmutevedio.c1eaf64f11b269362d44fe19b9fc8ce6.svg",
+    "static/media/tvideoicon.svg": "/static/media/tvideoicon.c9c45bae51e6984829ac1a029a2e673d.svg",
+    "static/media/shareicon.svg": "/static/media/shareicon.0f2fde2489b2965993993b9fc940d3f6.svg",
+    "main.e4c08790.css.map": "/static/css/main.e4c08790.css.map",
+    "main.494e34f0.js.map": "/static/js/main.494e34f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c08790.css",
+    "static/js/main.494e34f0.js"
+  ]
+}
